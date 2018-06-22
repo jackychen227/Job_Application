@@ -27,6 +27,9 @@
 * RoboMaster2017
 
   ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2017-1.png)
+  
+  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2017-3.JPG)
+
 
 * [ICRA2018 DJI RM人工智能挑战赛](https://github.com/jackychen227/ICRA2018_DJI_RM_AI_Challenge_NJUST)
 
