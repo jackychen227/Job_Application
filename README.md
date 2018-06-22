@@ -44,6 +44,8 @@
 
 * 6轮6驱移动平台
 
+  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/6%E8%BD%AE6%E9%A9%B1%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0-1.png)
+
 * 轮履复合移动平台
 
   ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/%E8%BD%AE%E5%B1%A5%E5%A4%8D%E5%90%88%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0-3.png)
