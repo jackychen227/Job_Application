@@ -22,7 +22,7 @@
 
 * RoboMasters2016
 
-  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2016-1.png)
+  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2016-4.JPG)
 
 * RoboMaster2017
 
