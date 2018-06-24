@@ -30,6 +30,8 @@
   
   ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2017-3.JPG)
 
+  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2017-5.JPG)
+
 
 * [ICRA2018 DJI RM人工智能挑战赛](https://github.com/jackychen227/ICRA2018_DJI_RM_AI_Challenge_NJUST)
 
@@ -41,6 +43,8 @@
   ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/PID_Regulator-1.png)
 
 * 6轮6驱移动平台
+
+  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/6%E8%BD%AE6%E9%A9%B1%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0-1.png)
 
 * 轮履复合移动平台
 
