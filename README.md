@@ -37,6 +37,7 @@
 
   ![Image text](https://github.com/jackychen227/ICRA2018_DJI_RM_AI_Challenge_NJUST/blob/master/docs/images/simulation_environments_2.png)
 
+  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/ICRA2018%20DJI%20RM%20AI%20CHALLENGE-Pygame-1.png)
 
 * [PID无线调参方案](https://github.com/jackychen227/PID_Regulator)
 
