@@ -15,7 +15,7 @@
 * 6轮6驱移动平台
 
 * 轮履复合移动平台
-## 项目详情
+## 项目简图
 * Robocup光电搬运小车
 	![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/%E6%90%AC%E8%BF%90%E5%B0%8F%E8%BD%A6-2.png)
   ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/%E6%90%AC%E8%BF%90%E5%B0%8F%E8%BD%A61.png)
