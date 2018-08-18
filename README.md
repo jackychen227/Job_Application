@@ -26,12 +26,11 @@
 
 * RoboMaster2017
 
-  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2017-1.png)
-  
   ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2017-3.JPG)
 
   ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2017-5.JPG)
-
+* RoboMaster2018
+ ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/RM2018-1.png)
 
 * [ICRA2018 DJI RM人工智能挑战赛](https://github.com/jackychen227/ICRA2018_DJI_RM_AI_Challenge_NJUST)
 
@@ -50,7 +49,8 @@
 * 轮履复合移动平台
 
   ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/%E8%BD%AE%E5%B1%A5%E5%A4%8D%E5%90%88%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0-3.png)
-
+  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/%E8%BD%AE%E5%B1%A5%E5%A4%8D%E5%90%88%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0-4.jpg)
+  ![Image text](https://github.com/jackychen227/Job_Application/blob/master/images/%E8%BD%AE%E5%B1%A5%E5%A4%8D%E5%90%88%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%8F%B0-5.png)
 # 许可证
 
 本作品采用[知识共享 署名-相同方式共享 国际 4.0 协议（CC BY-SA Intl. 4.0）](http://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
